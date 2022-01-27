@@ -12,4 +12,4 @@ Features list:<br/>
 -System of upgrading statistics <br/>
 -Coins dropped from enemies after death <br/>
 
-(https://kacpersky.itch.io/plush-toy-attack)
+https://kacpersky.itch.io/plush-toy-attack
