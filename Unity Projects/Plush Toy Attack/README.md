@@ -39,7 +39,7 @@ Features list(including scripts responsible for the operation of this features):
   - Scripts: InventoryManager.cs<br/>
 - **An interactive door that opens when the player approaches if the waves are not turned on and the wave is not currently in progress.** <br/>
   - Scripts: DeviceTrigger.cs, DoorOpenDevice.cs<br/> 
-- **Interactive buttons in the Main Menu and the Game Over screen ** <br/>
+- **Interactive buttons in the Main Menu and the Game Over screen**<br/>
   - Scripts: MainMenu.cs, EventButttons.cs<br/> 
 <br/>
 You can test the game here:<br/>
