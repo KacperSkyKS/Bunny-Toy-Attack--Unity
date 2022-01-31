@@ -15,6 +15,7 @@ Features list(including scripts responsible for the operation of this features):
 - AI enemies that has: follow the player, attack at the right distance, acceleration after corresponding health decline <br/>
 - System of upgrading statistics <br/>
 - Coins dropped from enemies after death <br/>
+- An interactive door that opens when the player approaches if the waves are not turned on and the wave is not currently in progress. <br/>
 <br/>
 You can test the game here:<br/>
 https://kacpersky.itch.io/plush-toy-attack
