@@ -19,9 +19,16 @@ Features list(including scripts responsible for the operation of this features):
 - Wave system<br/>
   - You can start waves by pressing the "L" button as well as stop the next wave from appearing. 
   - Scripts: Kontroler.cs <br/>
-- AI enemies that has: follow the player, attack at the right distance, acceleration after corresponding health decline <br/>
+- AI enemies that has: <br/>
+  - Follow the player.<br/>
+  - Attack at the right distance. <br/>
+  - Acceleration after corresponding health decline. <br/>
+  - Coins dropped after death. <br/>
+  - Scripts: AI_KROLIK.cs, CelReaktywny.cs <br/>
 - System of upgrading statistics <br/>
-- Coins dropped from enemies after death <br/>
+- Equipment<br/>
+  - Coins.<br/>
+  - Scripts: InventoryManager.cs<br/>
 - An interactive door that opens when the player approaches if the waves are not turned on and the wave is not currently in progress. <br/>
 <br/>
 You can test the game here:<br/>
