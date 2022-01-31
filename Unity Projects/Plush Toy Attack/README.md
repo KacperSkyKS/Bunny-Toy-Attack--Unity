@@ -29,10 +29,10 @@ Features list(including scripts responsible for the operation of this features):
   - Scripts: PlayerManager.cs, DaneGracza.cs 
 - System of upgrading statistics <br/>
   - Possibility to upgrade stats such as: <br/>
-   - Health
-   - Damage
-   - Attack speed
-   - Movement speed
+    - Health
+    - Damage
+    - Attack speed
+    - Movement speed
   - Scripts: UpgradePanelUI.cs<br/>
 - Equipment<br/>
   - Coins.<br/>
