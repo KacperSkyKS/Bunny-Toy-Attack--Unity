@@ -6,9 +6,9 @@ The game perspective is first-person.<br/>
 Written scripts are located under the path:<br/>
 Unity Project > Assets > Scripts <br/>
 <br/>
-Unity Project> Assets> Scripts 
 Features list(including scripts responsible for the operation of this features):<br/>
 - Walk<br/>
+  - tekst
 - Jump<br/>
 - Shooting (Raycast)<br/>
 - Wave system<br/>
