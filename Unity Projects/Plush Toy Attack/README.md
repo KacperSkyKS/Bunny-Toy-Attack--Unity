@@ -25,11 +25,20 @@ Features list(including scripts responsible for the operation of this features):
   - Acceleration after corresponding health decline. <br/>
   - Coins dropped after death. <br/>
   - Scripts: AI_KROLIK.cs, CelReaktywny.cs <br/>
+- Improvable player stats:
+  - Scripts: PlayerManager.cs, DaneGracza.cs 
 - System of upgrading statistics <br/>
+  - Possibility to upgrade stats such as: <br/>
+   - Health
+   - Damage
+   - Attack speed
+   - Movement speed
+  - Scripts: UpgradePanelUI.cs<br/>
 - Equipment<br/>
   - Coins.<br/>
   - Scripts: InventoryManager.cs<br/>
 - An interactive door that opens when the player approaches if the waves are not turned on and the wave is not currently in progress. <br/>
+  - Scripts: DeviceTrigger.cs, DoorOpenDevice.cs<br/> 
 <br/>
 You can test the game here:<br/>
 https://kacpersky.itch.io/plush-toy-attack
