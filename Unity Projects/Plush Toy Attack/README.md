@@ -8,7 +8,8 @@ Unity Project > Assets > Scripts <br/>
 <br/>
 Features list(including scripts responsible for the operation of this features):<br/>
 - Walk<br/>
-  - tekst
+  - Standard movement with WSAD and camera rotation with the mouse<br/>
+  - Scripts: PlayerRotate.cs , Klawiatura.cs <br/>
 - Jump<br/>
 - Shooting (Raycast)<br/>
 - Wave system<br/>
