@@ -11,8 +11,14 @@ Features list(including scripts responsible for the operation of this features):
   - Standard movement with WSAD and camera rotation with the mouse<br/>
   - Scripts: PlayerRotate.cs , Klawiatura.cs <br/>
 - Jump<br/>
+  - Scripts: Klawiatura.cs <br/>
 - Shooting (Raycast)<br/>
+  - Shooting with raycast. At the end of the shot, an explosion is created that tells you where the shot was shot.  <br/>
+  - If an enemy is hit, it takes damage. <br/>
+  - Scripts: Promien.cs <br/>
 - Wave system<br/>
+  - You can start waves by pressing the "L" button as well as stop the next wave from appearing. 
+  - Scripts: Kontroler.cs <br/>
 - AI enemies that has: follow the player, attack at the right distance, acceleration after corresponding health decline <br/>
 - System of upgrading statistics <br/>
 - Coins dropped from enemies after death <br/>
