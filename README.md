@@ -1,4 +1,4 @@
 # Portoflio
-The place where my works are placed. They include: <br /> 
--Unity projects<br /> 
--Programs written in different programming languages <br />
+The place where my works are placed. This place currently includes:  <br /> 
+-Unity Projects - Folder where Unity projects are located <br /> 
+-Java Scripts - - A place where there are simple terminal scripts in Java <br />
