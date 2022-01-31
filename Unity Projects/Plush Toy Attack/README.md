@@ -3,8 +3,13 @@ This is a wave survival game.<br/>
 The player protects himself as much as he can from the waves of husk rabbits with hammers.<br/>
 The game perspective is first-person.<br/>
 <br/>
-Features list:<br/>
+Written scripts are located under the path:<br/>
+Unity Project > Assets > Scripts <br/>
+<br/>
+Unity Project> Assets> Scripts 
+Features list(including scripts responsible for the operation of this features):<br/>
 -Walk<br/>
+  - tekst
 -Jump<br/>
 -Shooting (Raycast)<br/>
 -Wave system<br/>
