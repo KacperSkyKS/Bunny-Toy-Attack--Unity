@@ -4,7 +4,7 @@ The player protects himself as much as he can from the waves of husk rabbits wit
 The game perspective is first-person.<br/>
 <br/>
 Written scripts are located under the path:<br/>
-Unity Project > Assets > Scripts <br/>
+Assets > Scripts <br/>
 <br/>
 Features list(including scripts responsible for the operation of this features):<br/>
 - **Walk**<br/>
