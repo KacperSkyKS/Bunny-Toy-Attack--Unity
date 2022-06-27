@@ -30,14 +30,14 @@ Features list(including scripts responsible for the operation of this features):
 - **Wave system**<br/>
   - You can start waves by pressing the "L" button as well as stop the next wave from appearing. 
   - Scripts: 
-    - [Promien.cs](https://github.com/KacperSkyKS/Bunny-Toy-Attack--Unity/blob/main/Assets/Scripts/Kontroler.cs)<br/>
+    - [Kontroler.cs](https://github.com/KacperSkyKS/Bunny-Toy-Attack--Unity/blob/main/Assets/Scripts/Kontroler.cs)<br/>
 - **AI enemies that has:** <br/>
   - Follow the player.<br/>
   - Attack at the right distance. <br/>
   - Acceleration after corresponding health decline. <br/>
   - Coins dropped after death. <br/>
   - Scripts: 
-    - [Promien.cs](https://github.com/KacperSkyKS/Bunny-Toy-Attack--Unity/blob/main/Assets/Scripts/AI_KROLIK.cs)<br/>
+    - [AI_KROLIK.cs](https://github.com/KacperSkyKS/Bunny-Toy-Attack--Unity/blob/main/Assets/Scripts/AI_KROLIK.cs)<br/>
     - [CelReaktywny.cs](https://github.com/KacperSkyKS/Bunny-Toy-Attack--Unity/blob/main/Assets/Scripts/CelReaktywny.cs)<br/>
 - **Improvable player stats:**
   - Scripts: 
