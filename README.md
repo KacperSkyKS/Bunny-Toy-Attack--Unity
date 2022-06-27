@@ -1,3 +1,10 @@
+# Bunny-Toy-Attack--Unity
+You can test the game here:<br/>
+https://kacpersky.itch.io/plush-toy-attack<br/>
+
+You can watch the gameplay here:<br/>
+https://www.youtube.com/watch?v=SAWowrbW2X0<br/>
+<br/>
 This is my first Unity project which started my adventure with Unity.<br/>
 This is a wave survival game.<br/>
 The player protects himself as much as he can from the waves of husk rabbits with hammers.<br/>
@@ -42,6 +49,4 @@ Features list(including scripts responsible for the operation of this features):
 - **Interactive buttons in the Main Menu and the Game Over screen**<br/>
   - Scripts: MainMenu.cs, EventButttons.cs<br/> 
 <br/>
-You can test the game here:<br/>
-https://kacpersky.itch.io/plush-toy-attack
 
