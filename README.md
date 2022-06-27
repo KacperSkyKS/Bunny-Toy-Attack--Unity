@@ -62,6 +62,6 @@ Features list(including scripts responsible for the operation of this features):
 - **Interactive buttons in the Main Menu and the Game Over screen**<br/>
   - Scripts:
     - [MainMenu.cs](https://github.com/KacperSkyKS/Bunny-Toy-Attack--Unity/blob/main/Assets/Scripts/MainMenu.cs)<br/> 
-    - [EventButttons.cs](https://github.com/KacperSkyKS/Bunny-Toy-Attack--Unity/blob/main/Assets/Scripts/EventButttons.cs)<br/> 
+    - [EventButtons.cs](https://github.com/KacperSkyKS/Bunny-Toy-Attack--Unity/blob/main/Assets/Scripts/EventButtons.cs)<br/> 
 <br/>
 
